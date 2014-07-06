@@ -1,7 +1,7 @@
 Venezuela-Schema
 ================
 
-Esquemas de la Estructura Pol�tico Territorial de Venezuela, Asi como Cultural. Dependencias Federales, Estados, Municipios, Parroquias, Ciudades 
+Esquemas de la Estructura Político Territorial de Venezuela, Asi como Cultural. Dependencias Federales, Estados, Municipios, Parroquias, Ciudades 
 
 
 Distribucion Territorial Venezuela
