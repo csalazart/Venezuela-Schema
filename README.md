@@ -28,13 +28,13 @@ pero realmente creoq eu cubre todo, aunque nunca esta escaso de algún error.
 
   Las notas de Carga:
  -----------------------
- Bien para Cargar los Datos es Simple Siga los N�meros y Letras que he colocado, se Encuentra la Estructura
+ Bien para Cargar los Datos es Simple Siga los Números y Letras que he colocado, se Encuentra la Estructura
 de los Archivos en un archivo .SQL Basado en MYSQL asi que pueden modificarlo para otro tipo de Base de datos
-pero el SQL es bastante generico, asiq ue podria funcionar para otras bases de datos  con peque�as modificaciones
+pero el SQL es bastante generico, asiq ue podria funcionar para otras bases de datos  con pequeñas modificaciones
 se aceptan sugerencias..
 
-  Los Archivos:
-  ---------------
+ Los Archivos:
+ -----------------
  * 01.Venezuela_schema.sql: es el archivo de esctructura de las Tablas.
  * A.estados_data.sql : Archivo de Datos de Estados en SQL
  * A.estados.csv : Archivos de Datos en CSV Texto
@@ -45,12 +45,13 @@ se aceptan sugerencias..
  * D.ciudades_data.sql: Archivo de Datos de Ciudades en SQL
  * D.ciudades.csv : Archivo de Datos de ciudades en CSV Texto
 
-   Este es el Orden de los archivos y la carga de los Datos para que las Relaciones y restricciones de Cl�ves
+   Este es el Orden de los archivos y la carga de los Datos para que las Relaciones y restricciones de Cláves
 no salten a la hora de Cargar los Datos.
    Suerte y muchos Exitos.. Espero les Sirvan y Ayuden.
 
+------------------------------------------------
 ###Contacto
-Web: http://www.Tuhostingweb.net
-Email: csalazart33@gmail.com
-Twitter: @ElRuzo
+ Web: http://www.Tuhostingweb.net
+ Email: csalazart33@gmail.com
+ Twitter: @ElRuzo
 
