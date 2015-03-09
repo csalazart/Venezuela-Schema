@@ -41,8 +41,8 @@ no salten a la hora de Cargar los Datos.
    Suerte y muchos Exitos.. Espero les Sirvan y Ayuden.
 
 ------------------------------------------------
-###Contacto
- Web: http://www.Tuhostingweb.net
- Email: csalazart33@gmail.com
- Twitter: @ElRuzo
+###Contacto    
+ Web: http://www.Tuhostingweb.net    
+ Email: csalazart33@gmail.com    
+ Twitter: @ElRuzo    
 
